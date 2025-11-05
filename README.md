@@ -1,6 +1,8 @@
 <div align="center"> <h1>Fir-Fetch </h1> <p> <img src="https://img.shields.io/badge/version-1.0-blue.svg" /> <img src="https://img.shields.io/badge/python-3.10+-brightgreen.svg" /> <img src="https://img.shields.io/badge/platform-windows-blue.svg" /> <img src="https://img.shields.io/badge/license-MIT-green.svg" /> </p> <h3>一款专为信息泄露搜集的自动化信息搜集与分析工具</h3> <p> <a>🏠功能介绍</a> • <a>🚀快速开始</a> • <a>📖使用指南</a> • <a>🔧检测模块</a> </p> </div>
 
 > 注意：
+> 源码：https://pan.quark.cn/s/de9abf9bc99b
+提取码：YaBe
 
 ## 										 ✨ 项目特点 
 
